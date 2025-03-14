@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11">
+        <Placemark id="13">
+            <name>ホテル・ラ・レインボー</name>
+            <description>Hotel La Rainbeau
+https://haikyo.info/s/362.html</description>
+            <Point id="12">
+                <coordinates>133.796156741421,34.44547193562764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>田浦の現代の廃村</name>
+            <description>Abandoned modern village in Taura
+https://haikyo.info/s/9361.html</description>
+            <Point id="14">
+                <coordinates>139.6267768,35.2912595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>及川歯科医院</name>
+            <description>Oikawa Dental Clinic
+https://haikyo.info/s/17741.html</description>
+            <Point id="16">
+                <coordinates>141.1266457617522,40.86586366861221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>旧・七戸郵便局</name>
+            <description>Former Nananohe Post Office
+https://haikyo.info/s/17732.html</description>
+            <Point id="18">
+                <coordinates>141.1517618648416,40.69746243929628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>ホテル・ニューシティー</name>
+            <description>Hotel New City
+https://haikyo.info/s/17731.html</description>
+            <Point id="20">
+                <coordinates>139.1159087119595,36.03431438337726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>滋賀県東近江市野村町のトラのオブジェ。県道328号線野村町交差点に位置する。
+大型のトラのオブジェ....</name>
+            <description>A tiger object in Nomura-cho, Higashiomi City, Shiga Prefecture. It is located at the Nomuracho intersection on Prefectural Route 328.
+Large tiger object...
+https://haikyo.info/s/15374.html</description>
+            <Point id="22">
+                <coordinates>136.2201901756143,35.10906034937211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>森林館</name>
+            <description>Forest Hall
+https://haikyo.info/s/9433.html</description>
+            <Point id="24">
+                <coordinates>135.6578712001801,35.03975087092417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>行川アイランド（なめがわアイランド）</name>
+            <description>Gyogawa Island (Namegawa Island)
+https://haikyo.info/s/707.html</description>
+            <Point id="26">
+                <coordinates>140.2288726946786,35.11903659731389,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

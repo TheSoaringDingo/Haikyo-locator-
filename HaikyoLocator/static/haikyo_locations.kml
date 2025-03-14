@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>ホテル・ラ・レインボー</name>
+            <description>Hotel La Rainbeau
+https://haikyo.info/s/362.html</description>
+            <Point id="2">
+                <coordinates>133.796156741421,34.44547193562764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>田浦の現代の廃村</name>
+            <description>Abandoned modern village in Taura
+https://haikyo.info/s/9361.html</description>
+            <Point id="4">
+                <coordinates>139.6267768,35.2912595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>及川歯科医院</name>
+            <description>Oikawa Dental Clinic
+https://haikyo.info/s/17741.html</description>
+            <Point id="6">
+                <coordinates>141.1266457617522,40.86586366861221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>旧・七戸郵便局</name>
+            <description>Former Nananohe Post Office
+https://haikyo.info/s/17732.html</description>
+            <Point id="8">
+                <coordinates>141.1517618648416,40.69746243929628,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
