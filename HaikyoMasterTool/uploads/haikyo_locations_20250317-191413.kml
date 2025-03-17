@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="103">
+        <Style id="106">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="111">
+            <IconStyle id="112">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="113">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116">
+            <IconStyle id="117">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="118">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="121">
+            <IconStyle id="122">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="123">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="126">
+            <IconStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="128">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="131">
+            <IconStyle id="132">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="133">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="136">
+            <IconStyle id="137">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="138">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="141">
+            <IconStyle id="142">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="143">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="146">
+            <IconStyle id="147">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="148">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="151">
+            <IconStyle id="152">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="153">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="156">
+            <IconStyle id="157">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="158">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="161">
+            <IconStyle id="162">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="163">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="166">
+            <IconStyle id="167">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="171">
+            <IconStyle id="172">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="173">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="176">
+            <IconStyle id="177">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="178">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="181">
+            <IconStyle id="182">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="183">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="186">
+            <IconStyle id="187">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="188">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="191">
+            <IconStyle id="192">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="193">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="196">
+            <IconStyle id="197">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="198">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="201">
+            <IconStyle id="202">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="203">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="206">
+            <IconStyle id="207">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="208">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="211">
+            <IconStyle id="212">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="213">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="216">
+            <IconStyle id="217">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="218">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="221">
+            <IconStyle id="222">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="223">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="226">
+            <IconStyle id="227">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="228">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Haikyo Locations</name>
+        <description>Abandoned locations from haikyo.info (50 locations)</description>
+        <Placemark id="105">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>栄の島炭鉱（永ノ島） - 廃墟地図栄の島炭鉱（永ノ島炭鉱）は長崎県佐世保市の永ノ島にあった炭鉱。
+「永ノ島」（永の島）、「栄ノ島」....栄の島炭鉱（永ノ島）栄の島炭鉱（永ノ島） 概要・歴史栄の島炭鉱（永ノ島炭鉱）は長崎県佐世保市の永ノ島にあった炭鉱。
+「永ノ島」（永の島）、「栄ノ島」....2015-02-092024-12-19当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、...</p>
+        <p><a href="https://haikyo.info/s/10547.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#106</styleUrl>
+            <Point id="104">
+                <coordinates>129.60216650224953,33.202647756798136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>崎戸炭鉱 - 廃墟地図崎戸炭鉱（三菱崎戸炭鉱、崎戸鉱山）は、長崎県西海市の蛎浦島（崎戸町）にあった炭鉱。
+1880年代に炭....崎戸炭鉱崎戸炭鉱 概要・歴史崎戸炭鉱（三菱崎戸炭鉱、崎戸鉱山）は、長崎県西海市の蛎浦島（崎戸町）にあった炭鉱。
+1880年代に炭....2011-09-282025-02-12当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある...</p>
+        <p><a href="https://haikyo.info/s/279.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#111</styleUrl>
+            <Point id="109">
+                <coordinates>129.57292182921353,33.019306998806215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>中ノ島 - 廃墟地図中ノ島は長崎県長崎市にある島。軍艦島（端島）の隣に位置する。
+端島より早い1879（明治12）年に中ノ....中ノ島中ノ島 概要・歴史中ノ島は長崎県長崎市にある島。軍艦島（端島）の隣に位置する。
+端島より早い1879（明治12）年に中ノ....2014-12-132023-06-23当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建...</p>
+        <p><a href="https://haikyo.info/s/10349.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#116</styleUrl>
+            <Point id="114">
+                <coordinates>129.74529424040247,32.63429209859276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>旧長崎刑務所 - 廃墟地図旧長崎刑務所は長崎県諫早市にあった刑務所跡。「N刑務所」等として紹介されていることもある。
+1907（...旧長崎刑務所旧長崎刑務所 概要・歴史旧長崎刑務所は長崎県諫早市にあった刑務所跡。「N刑務所」等として紹介されていることもある。
+1907（...2011-10-082022-10-13当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた...</p>
+        <p><a href="https://haikyo.info/s/600.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#121</styleUrl>
+            <Point id="119">
+                <coordinates>130.05402443010044,32.83589469166521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>大島炭鉱（松島炭鉱大島事務所） - 廃墟地図大島炭鉱（松島炭鉱大島事務所）は長崎県西海市の大島にあった炭鉱。
+江戸期、明治期に小規模な採掘が...大島炭鉱（松島炭鉱大島事務所）大島炭鉱（松島炭鉱大島事務所） 概要・歴史大島炭鉱（松島炭鉱大島事務所）は長崎県西海市の大島にあった炭鉱。
+江戸期、明治期に小規模な採掘が...2014-12-252022-10-14当サイトでは、印象的な使われていない...</p>
+        <p><a href="https://haikyo.info/s/10512.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#126</styleUrl>
+            <Point id="124">
+                <coordinates>129.62558735635892,33.040659899518595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="130">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>昭和小学校 - 廃墟地図昭和小学校は長崎県西海市（旧・西彼杵郡崎戸町）のにあった学校。蛎浦島に位置する。
+崎戸炭鉱の発展....昭和小学校昭和小学校 概要・歴史昭和小学校は長崎県西海市（旧・西彼杵郡崎戸町）のにあった学校。蛎浦島に位置する。
+崎戸炭鉱の発展....2017-10-312024-12-11当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建...</p>
+        <p><a href="https://haikyo.info/s/13035.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#131</styleUrl>
+            <Point id="129">
+                <coordinates>129.57441036449356,33.01224631560179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>西海楽園 - 廃墟地図西海楽園は長崎県西海市にあった仏教系テーマパーク。
+七ツ釜観光ホテルに併設されていた施設で、1990....西海楽園西海楽園 概要・歴史西海楽園は長崎県西海市にあった仏教系テーマパーク。
+七ツ釜観光ホテルに併設されていた施設で、1990....2015-03-302025-02-20当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある...</p>
+        <p><a href="https://haikyo.info/s/10723.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#136</styleUrl>
+            <Point id="134">
+                <coordinates>129.6600927352691,33.02634433127921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="140">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>龍宮かに荘 - 廃墟地図龍宮かに荘は佐賀県藤津郡太良町にあった旅館、飲食施設。長崎県との境にある竹崎島に位置する。
+龍宮....龍宮かに荘龍宮かに荘 概要・歴史龍宮かに荘は佐賀県藤津郡太良町にあった旅館、飲食施設。長崎県との境にある竹崎島に位置する。
+龍宮....2017-01-242025-02-26当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建...</p>
+        <p><a href="https://haikyo.info/s/12465.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#141</styleUrl>
+            <Point id="139">
+                <coordinates>130.21948236411924,32.952615375340145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>鯛の鼻炭鉱 - 廃墟地図鯛の鼻炭鉱（鯛之鼻炭鉱）は長崎県松浦市（旧・北松浦郡福島町）にあった炭鉱。
+1959年公開の今村昌平...鯛の鼻炭鉱鯛の鼻炭鉱 概要・歴史鯛の鼻炭鉱（鯛之鼻炭鉱）は長崎県松浦市（旧・北松浦郡福島町）にあった炭鉱。
+1959年公開の今村昌平...2014-10-092021-03-16当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのあ...</p>
+        <p><a href="https://haikyo.info/s/9695.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#146</styleUrl>
+            <Point id="144">
+                <coordinates>129.8167326698543,33.40800936218485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="150">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>阿仁鉱山 - 廃墟地図阿仁鉱山（あにこうざん）は秋田県北秋田市にあった鉱山。正確には小沢鉱山、萱草鉱山、真木沢鉱山、一....阿仁鉱山阿仁鉱山 概要・歴史阿仁鉱山（あにこうざん）は秋田県北秋田市にあった鉱山。正確には小沢鉱山、萱草鉱山、真木沢鉱山、一....2011-10-072021-04-01当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物などを...</p>
+        <p><a href="https://haikyo.info/s/636.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#151</styleUrl>
+            <Point id="149">
+                <coordinates>140.41359691522587,39.98145357794098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>向後崎警備所、向後崎灯台（K灯台） - 廃墟地図向後崎警備所（こうござきけいびしょ）は長崎県佐世保市にある自衛隊設備跡。「JMSDF監視所」等として....向後崎警備所、向後崎灯台（K灯台）向後崎警備所、向後崎灯台（K灯台） 概要・歴史向後崎警備所（こうござきけいびしょ）は長崎県佐世保市にある自衛隊設備跡。「JMSDF監視所」等として....2013-09-282020-04-30当サイトでは、印...</p>
+        <p><a href="https://haikyo.info/s/7677.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#156</styleUrl>
+            <Point id="154">
+                <coordinates>129.66632541706448,33.103216761242436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>徳義炭鉱 - 廃墟地図徳義炭鉱は長崎県松浦市福島町にあった炭鉱。
+1941（昭和16）年に開坑、1942（昭和17）年に中島鉱業の...徳義炭鉱徳義炭鉱 概要・歴史徳義炭鉱は長崎県松浦市福島町にあった炭鉱。
+1941（昭和16）年に開坑、1942（昭和17）年に中島鉱業の...2014-10-092023-01-25当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた...</p>
+        <p><a href="https://haikyo.info/s/9696.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#161</styleUrl>
+            <Point id="159">
+                <coordinates>129.8107911628264,33.37700241875494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>小森江貯水池（小森江浄水場） - 廃墟地図小森江貯水池（こもりえちょすいち）および小森江浄水場（こもりえじょうずいじょう）は福岡県北九州市...小森江貯水池（小森江浄水場）小森江貯水池（小森江浄水場） 概要・歴史小森江貯水池（こもりえちょすいち）および小森江浄水場（こもりえじょうずいじょう）は福岡県北九州市...2013-06-062022-11-10当サイトでは、印象的な使われていない施設、歴史...</p>
+        <p><a href="https://haikyo.info/s/10311.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#166</styleUrl>
+            <Point id="164">
+                <coordinates>130.94841117865505,33.91772161403921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="170">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>牽牛崎砲台（牽牛崎堡塁） - 廃墟地図牽牛崎砲台（牽牛崎堡塁、けんぎゅうざき - ）は長崎県佐世保市の軍事遺構。
+石原岳堡塁、高後崎砲台....牽牛崎砲台（牽牛崎堡塁）牽牛崎砲台（牽牛崎堡塁） 概要・歴史牽牛崎砲台（牽牛崎堡塁、けんぎゅうざき - ）は長崎県佐世保市の軍事遺構。
+石原岳堡塁、高後崎砲台....2022-01-312022-08-22当サイトでは、印象的な使われていない施設、歴史...</p>
+        <p><a href="https://haikyo.info/s/15936.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#171</styleUrl>
+            <Point id="169">
+                <coordinates>129.6636048792173,33.168688264604924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>幸物橋・小麦橋 - 廃墟地図幸物橋・小麦橋は長崎県西海市の廃橋。雪浦川（ゆきのうらがわ）に架かる。
+1968年に着工、1976年に竣....幸物橋・小麦橋幸物橋・小麦橋 概要・歴史幸物橋・小麦橋は長崎県西海市の廃橋。雪浦川（ゆきのうらがわ）に架かる。
+1968年に着工、1976年に竣....2022-03-15当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わい...</p>
+        <p><a href="https://haikyo.info/s/16050.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#176</styleUrl>
+            <Point id="174">
+                <coordinates>129.70779149006526,32.961741825490215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="180">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>弓張岳砲台 - 廃墟地図弓張岳砲台は長崎県佐世保市の弓張岳（ゆみはりだけ、標高364m）にあった旧軍施設。
+1941（昭和16）年....弓張岳砲台弓張岳砲台 概要・歴史弓張岳砲台は長崎県佐世保市の弓張岳（ゆみはりだけ、標高364m）にあった旧軍施設。
+1941（昭和16）年....2014-12-082022-01-31当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、...</p>
+        <p><a href="https://haikyo.info/s/10307.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#181</styleUrl>
+            <Point id="179">
+                <coordinates>129.70138716331684,33.18043792942602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>樺島の座礁船 - 廃墟地図長崎県長崎市にある樺島の座礁船。
+大型のクレーン台船で、2000年2月に八代市から韓国に移送する途中、...樺島の座礁船樺島の座礁船 概要・歴史長崎県長崎市にある樺島の座礁船。
+大型のクレーン台船で、2000年2月に八代市から韓国に移送する途中、...2021-07-06当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物な...</p>
+        <p><a href="https://haikyo.info/s/15644.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#186</styleUrl>
+            <Point id="184">
+                <coordinates>129.7745767331942,32.55636007238782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="190">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>ルネッサンスビーチリゾート - 廃墟地図ルネッサンスビーチリゾートは千葉県銚子市にあったホテル。県道254号沿い、銚子電鉄外川駅近くに位置....ルネッサンスビーチリゾートルネッサンスビーチリゾート 概要・歴史ルネッサンスビーチリゾートは千葉県銚子市にあったホテル。県道254号沿い、銚子電鉄外川駅近くに位置....2015-01-092024-04-16当サイトでは、印象的な使われていない施設、歴...</p>
+        <p><a href="https://haikyo.info/s/10467.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#191</styleUrl>
+            <Point id="189">
+                <coordinates>140.8608148653071,35.6962106188909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>ゴルフクラブの中の家 - 廃墟地図長崎県長崎市にあるゴルフクラブの中の家。
+このゴルフクラブは1992年に五洋建設（株）が母体となって....ゴルフクラブの中の家ゴルフクラブの中の家 概要・歴史長崎県長崎市にあるゴルフクラブの中の家。
+このゴルフクラブは1992年に五洋建設（株）が母体となって....2023-04-18当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽...</p>
+        <p><a href="https://haikyo.info/s/16607.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#196</styleUrl>
+            <Point id="194">
+                <coordinates>129.80460510132548,32.60946734861982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="200">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>雲仙ニューグランドホテル - 廃墟地図雲仙ニューグランドホテルは、長崎県雲仙市にあった廃ホテル。雲仙普賢岳近くに位置する。「○仙ニュー○...雲仙ニューグランドホテル雲仙ニューグランドホテル 概要・歴史雲仙ニューグランドホテルは、長崎県雲仙市にあった廃ホテル。雲仙普賢岳近くに位置する。「○仙ニュー○...2012-01-212024-03-12当サイトでは、印象的な使われていない施設、歴史遺構、産...</p>
+        <p><a href="https://haikyo.info/s/1312.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#201</styleUrl>
+            <Point id="199">
+                <coordinates>130.25801909317622,32.742975916921075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>割烹旅館・道 - 廃墟地図割烹旅館・道は長崎県長崎市の宿泊施設。「ホテルＭ」等として紹介されていることもある。
+1976～1980....割烹旅館・道割烹旅館・道 概要・歴史割烹旅館・道は長崎県長崎市の宿泊施設。「ホテルＭ」等として紹介されていることもある。
+1976～1980....2021-12-062023-11-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築...</p>
+        <p><a href="https://haikyo.info/s/15835.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#206</styleUrl>
+            <Point id="204">
+                <coordinates>129.82647564139126,32.65326530176018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="210">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>伊王島炭鉱 - 廃墟地図日鉄伊王島炭鉱は選長崎県長崎市の伊王島にあった炭鉱。
+1931（昭和16）年、長崎鉱業（株）により開坑...伊王島炭鉱伊王島炭鉱 概要・歴史日鉄伊王島炭鉱は選長崎県長崎市の伊王島にあった炭鉱。
+1931（昭和16）年、長崎鉱業（株）により開坑...2014-12-132022-07-01当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わい...</p>
+        <p><a href="https://haikyo.info/s/10348.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#211</styleUrl>
+            <Point id="209">
+                <coordinates>129.77838061077665,32.699679902798344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>八坂神社裏山の廃墟群 - 廃墟地図長崎県長崎市にある八坂神社裏山の廃墟群。崇福寺駅近く、八坂神社横から入る墓地の先に位置する。
+19....八坂神社裏山の廃墟群八坂神社裏山の廃墟群 概要・歴史長崎県長崎市にある八坂神社裏山の廃墟群。崇福寺駅近く、八坂神社横から入る墓地の先に位置する。
+19....2021-11-042024-09-08当サイトでは、印象的な使われていない施設、歴史遺構、産業遺...</p>
+        <p><a href="https://haikyo.info/s/15808.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#216</styleUrl>
+            <Point id="214">
+                <coordinates>129.88482983691583,32.74205678381318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="220">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>美咲アパート（美崎アパート） - 廃墟地図美咲アパート（美崎アパート）は長崎県西海市の崎戸炭鉱にあった炭鉱住宅群。
+崎戸港を望む高台に建っ...美咲アパート（美崎アパート）美咲アパート（美崎アパート） 概要・歴史美咲アパート（美崎アパート）は長崎県西海市の崎戸炭鉱にあった炭鉱住宅群。
+崎戸港を望む高台に建っ...2014-09-052022-10-19当サイトでは、印象的な使われていない施設、...</p>
+        <p><a href="https://haikyo.info/s/9345.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#221</styleUrl>
+            <Point id="219">
+                <coordinates>129.5671636650124,33.01366597254975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>蛎瀬工場跡 - 廃墟地図蛎瀬工場跡は長崎県長崎市にある高島炭鉱の一つ。
+1897（明治30）年頃に開坑した立坑に現存する建築物....蛎瀬工場跡蛎瀬工場跡 概要・歴史蛎瀬工場跡は長崎県長崎市にある高島炭鉱の一つ。
+1897（明治30）年頃に開坑した立坑に現存する建築物....2022-05-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物など...</p>
+        <p><a href="https://haikyo.info/s/16164.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#226</styleUrl>
+            <Point id="224">
+                <coordinates>129.74677112604374,32.660935396502616,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

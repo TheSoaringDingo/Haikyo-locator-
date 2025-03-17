@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Haikyo Locations</name>
+        <description>Abandoned locations from haikyo.info (50 locations)</description>
+        <Placemark id="3">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>摩耶観光ホテル - 廃墟地図摩耶観光ホテル（まやかんこうホテル）は兵庫県神戸市灘区の摩耶山中腹にあったホテル。アールデコ風の...摩耶観光ホテル摩耶観光ホテル 概要・歴史摩耶観光ホテル（まやかんこうホテル）は兵庫県神戸市灘区の摩耶山中腹にあったホテル。アールデコ風の...2011-09-152023-12-16当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのあ...</p>
+        <p><a href="https://haikyo.info/s/3.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>135.2125158181136,34.72765861846603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>新山本造船所 - 廃墟地図新山本造船所は高知県高知市にあった造船所。
+1900（明治33）年に創業した山本造船を前身とする。山本....新山本造船所新山本造船所 概要・歴史新山本造船所は高知県高知市にあった造船所。
+1900（明治33）年に創業した山本造船を前身とする。山本....2016-03-162024-02-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽...</p>
+        <p><a href="https://haikyo.info/s/11525.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>133.5639679569602,33.50541348278241,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

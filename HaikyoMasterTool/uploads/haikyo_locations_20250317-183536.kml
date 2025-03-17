@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <colorMode>normal</colorMode>
+                <scale>1.0</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/shopping.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Haikyo Locations</name>
+        <description>Abandoned locations from haikyo.info (50 locations)</description>
+        <Placemark id="3">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>摩耶観光ホテル - 廃墟地図摩耶観光ホテル（まやかんこうホテル）は兵庫県神戸市灘区の摩耶山中腹にあったホテル。アールデコ風の...摩耶観光ホテル摩耶観光ホテル 概要・歴史摩耶観光ホテル（まやかんこうホテル）は兵庫県神戸市灘区の摩耶山中腹にあったホテル。アールデコ風の...2011-09-152023-12-16当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのあ...</p>
+        <p><a href="https://haikyo.info/s/3.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>135.2125158181136,34.72765861846603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>新山本造船所 - 廃墟地図新山本造船所は高知県高知市にあった造船所。
+1900（明治33）年に創業した山本造船を前身とする。山本....新山本造船所新山本造船所 概要・歴史新山本造船所は高知県高知市にあった造船所。
+1900（明治33）年に創業した山本造船を前身とする。山本....2016-03-162024-02-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽...</p>
+        <p><a href="https://haikyo.info/s/11525.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>133.5639679569602,33.50541348278241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>帝釈鉱山 - 廃墟地図帝釈鉱山は兵庫県神戸市北区にあった鉱山。帝釈山の南斜面の山腹に位置する。
+歴史は源平時代に遡ると...帝釈鉱山帝釈鉱山 概要・歴史帝釈鉱山は兵庫県神戸市北区にあった鉱山。帝釈山の南斜面の山腹に位置する。
+歴史は源平時代に遡ると...2011-11-282022-10-25当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物などを...</p>
+        <p><a href="https://haikyo.info/s/1578.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>135.11929765726288,34.783587159969045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>渡良瀬川沿いの廃旅館 - 廃墟地図群馬県みどり市（旧・勢多郡東村神戸（ごうど））にある渡良瀬川沿いの廃旅館。わたらせ渓谷鐵道沿い、....渡良瀬川沿いの廃旅館渡良瀬川沿いの廃旅館 概要・歴史群馬県みどり市（旧・勢多郡東村神戸（ごうど））にある渡良瀬川沿いの廃旅館。わたらせ渓谷鐵道沿い、....2020-03-222024-04-19当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代...</p>
+        <p><a href="https://haikyo.info/s/15211.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>139.34642094215195,36.53895003956044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>ダイキョー教習所（D教習所） - 廃墟地図ダイキョー教習所は、兵庫県神戸市北区にあった自動車教習所跡。「D教習所」等として紹介されていること...ダイキョー教習所（D教習所）ダイキョー教習所（D教習所） 概要・歴史ダイキョー教習所は、兵庫県神戸市北区にあった自動車教習所跡。「D教習所」等として紹介されていること...2011-09-222022-07-05当サイトでは、印象的な使われていない施設、...</p>
+        <p><a href="https://haikyo.info/s/53.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>135.2395499452237,34.86071876474978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>有馬わんわんランド - 廃墟地図有馬わんわんランド（ありまわんわんらんど）は兵庫県神戸市北区にあった犬のテーマパーク。
+2001（平...有馬わんわんランド有馬わんわんランド 概要・歴史有馬わんわんランド（ありまわんわんらんど）は兵庫県神戸市北区にあった犬のテーマパーク。
+2001（平...2011-11-172023-11-22当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近...</p>
+        <p><a href="https://haikyo.info/s/1272.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>135.25219643451345,34.80242837780054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>武智丸（安浦のコンクリート船） - 廃墟地図武智丸（たけちまる）は広島県呉市の安浦漁港にあるコンクリート船を利用した防波堤。
+第二次世界大戦....武智丸（安浦のコンクリート船）武智丸（安浦のコンクリート船） 概要・歴史武智丸（たけちまる）は広島県呉市の安浦漁港にあるコンクリート船を利用した防波堤。
+第二次世界大戦....2014-09-122023-04-27当サイトでは、印象的な使われてい...</p>
+        <p><a href="https://haikyo.info/s/8276.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>132.7561471433822,34.28027611794993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>摩耶花壇 - 廃墟地図摩耶花壇は兵庫県神戸市灘区の摩耶山町にある休憩所、宿泊施設跡。
+1926（昭和元）年に、摩耶山株式会...摩耶花壇摩耶花壇 概要・歴史摩耶花壇は兵庫県神戸市灘区の摩耶山町にある休憩所、宿泊施設跡。
+1926（昭和元）年に、摩耶山株式会...2011-12-252023-08-04当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築...</p>
+        <p><a href="https://haikyo.info/s/1377.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>135.21010321701857,34.727443656278865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>六甲登山ロープウェイ（六甲登山架空索道） - 廃墟地図六甲登山ロープウェイ（六甲登山架空索道）は兵庫県神戸市にあった索道。六甲山へ登るロープウェイで、....六甲登山ロープウェイ（六甲登山架空索道）六甲登山ロープウェイ（六甲登山架空索道） 概要・歴史六甲登山ロープウェイ（六甲登山架空索道）は兵庫県神戸市にあった索道。六甲山へ登るロープウェイで、....2012-05-022021-04-14当サイ...</p>
+        <p><a href="https://haikyo.info/s/7577.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>135.22909661274642,34.74191798263934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>川崎正蔵翁の銅像跡 - 廃墟地図川崎正蔵翁の銅像跡は兵庫県神戸市中央区の布引公園付近にある銅像跡。
+この付近に徳光院という禅院が....川崎正蔵翁の銅像跡川崎正蔵翁の銅像跡 概要・歴史川崎正蔵翁の銅像跡は兵庫県神戸市中央区の布引公園付近にある銅像跡。
+この付近に徳光院という禅院が....2016-01-102022-12-02当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建...</p>
+        <p><a href="https://haikyo.info/s/11311.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>135.19531910400752,34.70840339737136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>本家オランダ館（シー・エリオン邸、エム・エリオン邸） - 廃墟地図本家オランダ館（シー・エリオン邸、エム・エリオン邸）は兵庫県神戸市中央区の北野異人館街にある邸宅....本家オランダ館（シー・エリオン邸、エム・エリオン邸）本家オランダ館（シー・エリオン邸、エム・エリオン邸） 概要・歴史本家オランダ館（シー・エリオン邸、エム・エリオン邸）は兵庫県神戸市中央区の北野異人館街にある邸宅....2017-...</p>
+        <p><a href="https://haikyo.info/s/13484.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>135.19088996332204,34.702309698911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>新神戸大プール - 廃墟地図新神戸大プールは、兵庫県神戸市東灘区にあったプール。阪神高速道路5号湾岸線深江浜出入口近くに位置す...新神戸大プール新神戸大プール 概要・歴史新神戸大プールは、兵庫県神戸市東灘区にあったプール。阪神高速道路5号湾岸線深江浜出入口近くに位置す...2011-11-052019-11-13当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わい...</p>
+        <p><a href="https://haikyo.info/s/966.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>135.29904229078699,34.71252843514129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>奥摩耶遊園地 - 廃墟地図奥摩耶遊園地（おくまやゆうえんち）は、かつて兵庫県神戸市灘区にあった遊園地である。
+1955（昭和30...奥摩耶遊園地奥摩耶遊園地 概要・歴史奥摩耶遊園地（おくまやゆうえんち）は、かつて兵庫県神戸市灘区にあった遊園地である。
+1955（昭和30...2012-02-072019-12-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた...</p>
+        <p><a href="https://haikyo.info/s/1277.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>135.20565588029,34.73533175268993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>六甲有馬ロープウェー表六甲線 - 廃墟地図六甲有馬ロープウェーは、兵庫県神戸市の六甲山と有馬温泉を結ぶロープウェーである。神戸すまいまちづ....六甲有馬ロープウェー表六甲線六甲有馬ロープウェー表六甲線 概要・歴史六甲有馬ロープウェーは、兵庫県神戸市の六甲山と有馬温泉を結ぶロープウェーである。神戸すまいまちづ....2014-09-102020-05-04当サイトでは、印象的な使われていない施設、...</p>
+        <p><a href="https://haikyo.info/s/9387.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>135.247445008474,34.7563349552105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>旧逓信省電話装荷線輪用櫓（函南町） - 廃墟地図旧逓信省電話装荷線輪用櫓は静岡県田方郡函南町にある通信施設跡。
+わが国最初の長距離市外電話用ケー...旧逓信省電話装荷線輪用櫓（函南町）旧逓信省電話装荷線輪用櫓（函南町） 概要・歴史旧逓信省電話装荷線輪用櫓は静岡県田方郡函南町にある通信施設跡。
+わが国最初の長距離市外電話用ケー...2023-09-12当サイトでは、印象的な使われていない施設、歴...</p>
+        <p><a href="https://haikyo.info/s/16887.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>139.01098771535302,35.17718583587427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>海底住居ガラテ - 廃墟地図海底住居ガラテ（GALATHEE）は、フランスの海洋建築家ジャック・ルージュリー（Jacques  Rougerie）氏の...海底住居ガラテ海底住居ガラテ 概要・歴史海底住居ガラテ（GALATHEE）は、フランスの海洋建築家ジャック・ルージュリー（Jacques  Rougerie）氏の...2014-03-032022-11-22当サイトでは、印象的な使われていない...</p>
+        <p><a href="https://haikyo.info/s/8904.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>135.40132151344383,34.61612309874165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>神戸南洋植物パーク - 廃墟地図神戸南洋植物パーク（こうべなんようしょくぶつパーク）は兵庫県神戸市須磨区にあった植物園。
+1964（....神戸南洋植物パーク神戸南洋植物パーク 概要・歴史神戸南洋植物パーク（こうべなんようしょくぶつパーク）は兵庫県神戸市須磨区にあった植物園。
+1964（....2019-07-302024-04-24当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産...</p>
+        <p><a href="https://haikyo.info/s/1350.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>135.10086617908107,34.64297621467822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>七三峠のトンネル（若者の家） - 廃墟地図七三峠のトンネルは兵庫県神戸市にある廃隧道。中央区、兵庫区、北区の境にある極楽林道・七三峠に位置....七三峠のトンネル（若者の家）七三峠のトンネル（若者の家） 概要・歴史七三峠のトンネルは兵庫県神戸市にある廃隧道。中央区、兵庫区、北区の境にある極楽林道・七三峠に位置....2022-06-032023-03-22当サイトでは、印象的な使われていない施設、...</p>
+        <p><a href="https://haikyo.info/s/8695.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>135.1695553577744,34.71396468636516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>土肥金山 - 廃墟地図土肥金山（といきんざん）または土肥鉱山（といこうざん）は、静岡県伊豆市の土肥地区にある金鉱山跡。....土肥金山土肥金山 概要・歴史土肥金山（といきんざん）または土肥鉱山（といこうざん）は、静岡県伊豆市の土肥地区にある金鉱山跡。....2013-08-112023-10-30当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物などを...</p>
+        <p><a href="https://haikyo.info/s/1107.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>138.79252635029513,34.90814305093467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name/>
+            <description>
+                
+        
+<![CDATA[
+        <h3></h3>
+        
+        <p>互泉荘 - 廃墟地図互泉荘は兵庫県神戸市北区の保養施設。有馬温泉に位置する。「G泉荘」等として紹介されていることもあ....互泉荘互泉荘 概要・歴史互泉荘は兵庫県神戸市北区の保養施設。有馬温泉に位置する。「G泉荘」等として紹介されていることもあ....2019-11-122024-11-13当サイトでは、印象的な使われていない施設、歴史遺構、産業遺産、近代建築、朽ちた味わいのある建築物などを幅広く...</p>
+        <p><a href="https://haikyo.info/s/15114.html" target="_blank">View on haikyo.info</a></p>
+        ]]>            </description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>135.24761658231796,34.80078214290363,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
