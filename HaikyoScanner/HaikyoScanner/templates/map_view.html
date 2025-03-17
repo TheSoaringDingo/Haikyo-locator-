@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HaikyoLocator - Map Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container map-page">
+        <header>
+            <h1>HaikyoLocator</h1>
+            <div class="nav-links">
+                <a href="/" class="btn">New Search</a>
+                <a href="/export" class="btn" id="export-btn">Export Data</a>
+            </div>
+        </header>
+        
+        <main>
+            <section class="map-section">
+                <div class="map-container">
+                    <iframe id="map-frame" src="/map_file" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </section>
+            
+            <section class="results-summary">
+                <h2>Search Results</h2>
+                <p>Found <span id="location-count">{{ locations|length }}</span> locations</p>
+                
+                <div class="location-list">
+                    {% if locations %}
+                        {% for location in locations %}
+                        <div class="location-item">
+                            <h3>{{ location.name or 'Unknown Location' }}</h3>
+                            {% if location.address %}
+                                <p><strong>Address:</strong> {{ location.address }}</p>
+                            {% endif %}
+                            {% if location.category %}
+                                <p><strong>Category:</strong> {{ location.category }}</p>
+                            {% endif %}
+                            {% if location.url %}
+                                <p><a href="{{ location.url }}" target="_blank">View Original Page</a></p>
+                            {% endif %}
+                        </div>
+                        {% endfor %}
+                    {% else %}
+                        <p>No locations found. Try a different search term.</p>
+                    {% endif %}
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>HaikyoLocator - Data sourced from <a href="https://haikyo.info" target="_blank">haikyo.info</a></p>
+        </footer>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

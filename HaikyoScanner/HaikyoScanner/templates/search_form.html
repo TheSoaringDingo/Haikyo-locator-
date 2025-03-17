@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HaikyoLocator - Search Abandoned Places in Japan</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>HaikyoLocator</h1>
+            <p>Search and locate abandoned places (haikyo) in Japan</p>
+        </header>
+        
+        <main>
+            <section class="search-section">
+                <form id="search-form">
+                    <div class="search-container">
+                        <input type="text" id="search-term" name="search_term" placeholder="Enter city name (e.g., 東京, 神戸) or URL from haikyo.info" required>
+                        <button type="submit">Search</button>
+                    </div>
+                    
+                    <div class="max-locations-container">
+                        <label for="max-locations">Maximum locations to scrape:</label>
+                        <select id="max-locations" name="max_locations">
+                            <option value="5">5 locations</option>
+                            <option value="10" selected>10 locations</option>
+                            <option value="20">20 locations</option>
+                            <option value="30">30 locations</option>
+                            <option value="50">50 locations</option>
+                            <option value="100">100 locations</option>
+                        </select>
+                    </div>
+                    
+                    <div class="popular-searches">
+                        <h3>Popular Searches:</h3>
+                        <div class="search-tags">
+                            <a href="#" class="search-tag" data-search="東京">Tokyo (東京)</a>
+                            <a href="#" class="search-tag" data-search="神戸">Kobe (神戸)</a>
+                            <a href="#" class="search-tag" data-search="北海道">Hokkaido (北海道)</a>
+                            <a href="#" class="search-tag" data-search="大阪">Osaka (大阪)</a>
+                            <a href="#" class="search-tag" data-search="京都">Kyoto (京都)</a>
+                            <a href="#" class="search-tag" data-search="病院">Hospitals (病院)</a>
+                            <a href="#" class="search-tag" data-search="学校">Schools (学校)</a>
+                            <a href="#" class="search-tag" data-search="ホテル">Hotels (ホテル)</a>
+                        </div>
+                    </div>
+                </form>
+            </section>
+            
+            <section class="loading-section" style="display: none;">
+                <div class="loader"></div>
+                <p>Searching and mapping locations...</p>
+                <div class="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                    <div class="progress-text" id="progress-text">0%</div>
+                </div>
+                <p id="current-status">Initializing search...</p>
+            </section>
+            
+            <section class="instructions">
+                <h2>How to Use</h2>
+                <ol>
+                    <li>Enter a Japanese city name (e.g., 東京, 神戸) or a search URL from <a href="https://haikyo.info" target="_blank">haikyo.info</a></li>
+                    <li>Click "Search" to find abandoned locations in that area</li>
+                    <li>View results on an interactive map</li>
+                    <li>Click markers to see details about each location</li>
+                </ol>
+                
+                <h3>Example Searches</h3>
+                <ul>
+                    <li>City name: <code>神戸</code> (Kobe)</li>
+                    <li>Prefecture: <code>北海道</code> (Hokkaido)</li>
+                    <li>Category: <code>病院</code> (Hospital)</li>
+                    <li>URL: <code>https://haikyo.info/search.php?sw=神戸</code></li>
+                </ul>
+            </section>
+        </main>
+        
+        <footer>
+            <p>HaikyoLocator - Data sourced from <a href="https://haikyo.info" target="_blank">haikyo.info</a></p>
+        </footer>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
